@@ -1,2 +1,3 @@
 # my-first-project
-gg
+
+this is my first project
